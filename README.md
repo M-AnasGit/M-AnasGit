@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Anas</h1>
+<h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate developer from Morocco, Based in the UK</h3>
 
 - 🔭 My main project [Skillz](https://play.google.com/store/apps/details?id=com.skillz.skillzma)
