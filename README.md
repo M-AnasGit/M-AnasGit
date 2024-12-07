@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate developer from Morocco, Based in the UK</h3>
 
-- 🔭 My main project [Skillz](https://play.google.com/store/apps/details?id=com.skillz.skillzma)
+- 🔭 Current working on a UI library [Oridnary Ui](https://github.com/M-AnasGit/Ordinary-UI)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **manasgithub1@gmail.com**
+- 📫 How to reach me **anas.abbouchi.04@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-anas-abbouchi-b7a582270/](https://www.linkedin.com/in/mohamed-anas-abbouchi-b7a582270/)
 
