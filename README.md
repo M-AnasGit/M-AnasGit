@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate developer from Morocco, Based in the UK</h3>
 
-- 🔭 Current working on a UI library [Oridnary UI](https://github.com/M-AnasGit/Ordinary-UI)
+- 🔭 Current working on a DnD Course builder
 
 - 💬 Ask me about **React**
 
