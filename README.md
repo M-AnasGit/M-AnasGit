@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **anas.abbouchi.04@gmail.com**
+- 📫 How to reach [me]**anas.abbouchi.04@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-anas-abbouchi-b7a582270/](https://www.linkedin.com/in/mohamed-anas-abbouchi-b7a582270/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/mohamed-anas-abbouchi-b7a582270/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
